@@ -1,2 +1,2 @@
 config:
- info: "master -- SpringCloudConfig -- config.prod.yml version=2.0"
+ info: "master -- SpringCloudConfig -- config.prod.yml version=2.0.1"
